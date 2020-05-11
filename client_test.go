@@ -1,9 +1,10 @@
 package nifi
 
 import (
-	"github.com/stretchr/testify/assert"
 	"testing"
 	"time"
+
+	"github.com/stretchr/testify/assert"
 )
 
 func TestClientProcessGroupCreate(t *testing.T) {

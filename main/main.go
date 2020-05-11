@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/glympse/terraform-provider-nifi/nifi"
+	"github.com/diogenes1oliveira/terraform-provider-nifi"
 	"github.com/hashicorp/terraform/plugin"
 )
 
